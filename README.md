@@ -16,7 +16,8 @@ Totally cost about 0.36 BSV to load bullets.
 
 Thanks to everyone that helped a lot for donation, brain storming and encourage.
 
-Addresses used in this test round are all listed in directory [2019-04-11](/2019-04-11), left about 0.32 BSV after coin recycle.
+Addresses used in this test round are all listed in directory [2019-04-11](/2019-04-11), left about 0.32 BSV after coin recycle. Last recycle transaction is
+[2146b9d18ac26dc40c8b64fea0f21c7e8d1d9b2158831048395360f272508008](https://whatsonchain.com/tx/2146b9d18ac26dc40c8b64fea0f21c7e8d1d9b2158831048395360f272508008)
 
 ----
 
