@@ -2,17 +2,19 @@
 
 This might be a prototype of stress test tool on BitconSV MainNet.
 
+Transactions made by this tool, [count statistics ](http://bit.ly/2Z1wduL)
+
 ----
 
 On Apr. 11 from 19:18 UTC+8, reached 10 transactions per second, last 1 hour.
 
-Totally cost 0.36 BSV without recycling the coin back(will do this later).
+Totally cost about 0.36 BSV to load bullets.
 
 ![Imgur](https://i.imgur.com/O7WX3w8.png)
 
 Thanks to everyone that helped a lot for donation, brain storming and encourage.
 
-Transactions made by this tool, [count statistics ](http://bit.ly/2Z1wduL)
+Addresses used in this test round are all listed in directory [2019-04-11](/2019-04-11), left about 0.32 BSV after coin recycle.
 
 ----
 
