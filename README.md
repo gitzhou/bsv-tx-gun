@@ -6,6 +6,17 @@ Transactions made by this tool, [count statistics ](http://bit.ly/2Z1wduL)
 
 ----
 
+The 2nd round test run from 20:00 to 22:00 Apr. 18 UTC+8.
+
+Totally shoot 1.1 million transactions, average fee ~500 sat/tx. Addresses used in this test round are all listed in directory [2019-04-18](/2019-04-18)
+
+Last recycle transaction is
+[23a6e83686b6651d7ce1696ab5ccc8d692f7bf1b2c70267bdf8fe39f71e7f030](https://whatsonchain.com/tx/23a6e83686b6651d7ce1696ab5ccc8d692f7bf1b2c70267bdf8fe39f71e7f030)
+
+The tool can now shoot at 400TPS ~ 1000TPS as required.
+
+----
+
 On Apr. 11 from 19:18 UTC+8, reached 10 transactions per second, last 1 hour.
 
 Transactions packaged from block height [577639](https://whatsonchain.com/block-height/577639) to [577645](https://whatsonchain.com/block-height/577645).
