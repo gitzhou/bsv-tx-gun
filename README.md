@@ -6,6 +6,16 @@ Transactions made by this tool [count statistics](http://bit.ly/2Z1wduL).
 
 ----
 
+A live demo of SV-GUN at Hangzhou developer workshop on Sep 21.
+
+Totally prepared 700,000 transactions, TPS under 200. Addresses used in this test round are all listed in directory [2019-09-21](/2019-09-21).
+
+![](https://aaron67-public.oss-cn-beijing.aliyuncs.com/20191004200850.png)
+
+![](https://aaron67-public.oss-cn-beijing.aliyuncs.com/20191004200807.png)
+
+----
+
 The 3rd round test run from 20:00 to 22:00 of Aug 3rd UTC+8.
 
 Totally prepared 2 million transactions, shoot 1.5 million. 
